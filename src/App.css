@@ -1,0 +1,19 @@
+.App{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.card{
+    background-color: grey;
+    height: 30px;
+    width: 450px;
+    border: 1px solid grey;
+    margin: 2px;
+    padding: 5px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+
+}
